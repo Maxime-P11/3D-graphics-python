@@ -2,7 +2,6 @@ import pygame
 import numpy as np
 from math import cos, sin, pi
 import os.path
-from itertools import batched
 
 SCREEN_WIDTH = 512
 SCREEN_HEIGHT = 512
